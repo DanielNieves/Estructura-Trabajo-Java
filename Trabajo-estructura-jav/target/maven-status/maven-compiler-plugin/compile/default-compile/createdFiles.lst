@@ -1,0 +1,5 @@
+edu\ups\ec\trabajo\estructura\vista\AgendaVista.class
+edu\ups\ec\trabajo\estructura\main\controlador\AgendaControlador.class
+edu\ups\ec\trabajo\estructura\main\modelo\Contacto.class
+edu\ups\ec\trabajo\estructura\main\modelo\AgendaModel.class
+edu\ups\ec\trabajo\estructura\main\controlador\Main\TrabajoEstructuraJava.class
